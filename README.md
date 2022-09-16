@@ -1,3 +1,5 @@
-# weather app
+## Weather app
 
-Simple app I made for school, it uses the OpenWeatherMap API and displays the current weather of the city you input, including a lot of other stats
+A simple app made using C#, Windows Forms and the OpenWeatherMap API.
+
+Input a city name, and it will display the current temperature, wind speed, direction and humidity of that city.
